@@ -3,7 +3,7 @@
 
 **Keystone** is an AI-powered project intelligence platform built for engineering consulting firms.
 
-Engineering projects generate massive amounts of fragmented information — schedules, reports, RFIs, change orders, emails, and spreadsheets. Critical insights are often buried, discovered too late, or lost between teams.
+Engineering projects generate massive amounts of fragmented information. Such as schedules, reports, RFIs, change orders, emails, and spreadsheets. Critical insights are often buried, discovered too late, or lost between teams.
 
 Keystone acts as the **intelligence layer** that sits on top of existing project tools, continuously analyzing project data to surface risks, insights, and decision signals in real time.
 
