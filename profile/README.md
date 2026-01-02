@@ -28,9 +28,6 @@ Our goal is to help engineering teams move from **reactive** to **predictive** p
 - **`keystone-platform`**  
   Core application code (backend, frontend, infrastructure)
 
-- **`keystone-docs`**  
-  Product vision, architecture, technical documentation, and decision records
-
 - **`keystone-research`**  
   Prototypes, experiments, and research spikes related to AI and data intelligence
 
